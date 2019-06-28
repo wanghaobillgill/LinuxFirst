@@ -43,7 +43,7 @@ public class hello {
 		System.out.println(b2);*/
 		System.out.println("args = " + args);
         System.out.println("Hello GitHub");
-
+        final int i=1;
 		
 	}
 }
