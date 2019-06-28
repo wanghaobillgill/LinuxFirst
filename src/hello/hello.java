@@ -41,6 +41,7 @@ public class hello {
 //		boolean b1=tom.equals(jerry);
 		System.out.println(b1);
 		System.out.println(b2);*/
+		System.out.println("args = " + args);
 
 		
 	}
